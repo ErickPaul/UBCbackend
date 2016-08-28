@@ -1,0 +1,7 @@
+{
+	"notifyCode":"16",
+	"title":"New Message+",
+	"type":"link_data",
+	"data": "https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/Message/2016-06-08.html"
+
+}

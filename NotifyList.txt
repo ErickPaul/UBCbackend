@@ -1,0 +1,47 @@
+{
+    "notifyVersion":"11",
+    "msgList":[
+        {
+            "notifyCode":"11",
+            "title":"Sample Notification 1",
+            "type":"link",
+            "data":"https://dl.dropbox.com/s/5zp0qv6qszdqtjq/Test1.html",
+            "date":"6th June 2016"
+         },
+         {
+            "notifyCode":"10",
+            "title":"Sample Notification 2",
+            "type":"link_data",
+            "data":"https://dl.dropbox.com/s/5zp0qv6qszdqtjq/Test1.html",
+            "date":"8th June 2016"
+        },
+        {
+            "notifyCode":"9",
+            "title":"Sample Notification 3",
+            "type":"link",
+            "data":"https://dl.dropbox.com/s/5zp0qv6qszdqtjq/Test1.html",
+            "date":"10th June 2016"
+        },
+       {
+            "notifyCode":"8",
+            "title":"Sample Notification 5",
+            "type":"link",
+            "data":"https://dl.dropbox.com/s/5zp0qv6qszdqtjq/Test1.html",
+            "date":"12th June 2016"
+        },
+       {
+            "notifyCode":"5",
+            "title":"Sample Notification 6",
+            "type":"link",
+            "data":"https://dl.dropbox.com/s/5zp0qv6qszdqtjq/Test1.html",
+            "date":"14th June 2016"
+        },
+       {
+            "notifyCode":"3",
+            "title":"Sample Notification 7",
+            "type":"link_data",
+            "data":"https://dl.dropbox.com/s/5zp0qv6qszdqtjq/Test1.html",
+            "date":"16th June 2016"
+        }
+    ]
+}

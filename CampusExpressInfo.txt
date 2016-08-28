@@ -1,0 +1,34 @@
+{
+"CampusExpress":[
+ {
+    "expTextName": "Unique Delivery",
+    "expSpellName": "unique",
+    "expTel":"0712 324 678",
+    "expLoc":"Main Stage next to the supermarket (Unicom store)",
+    "workTime":"9:00-20:00",
+    "itemImage":"https://dl.dropbox.com/s/m0wzygoactt5sfz/nav_drawer_tmt.png",
+    "topImage":"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/express_image/unique.jpg",
+    "body":"<divclass=\"inner\">   <h1 class=\"atitle\">Unique Delivery<br>   </h1>     <div class=\"readinfo\">         <div>     <font size=\"4\" face=\"Times New Roman\">     &nbsp;&nbsp;&nbsp; Unique courier services offers parcel delivery services all over the country with pick up and drop-off points in Nairobi, Meru, Nakuru and other major towns within the country.     </font>     </div>          <p align=\"center\">     <font size=\"4\" face=\"Times New Roman\">     <img border=\"0\" width=\"650\" alt=\"\" src=\"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/express_imagex/unique2.jpg\" />     </font>     </p>      <div>     <font size=\"4\" face=\"Times New Roman\">     &nbsp;&nbsp;&nbsp; Nairobi Office </font>     </div>      <p align=\"center\">     <font size=\"4\" face=\"Times New Roman\">     <img border=\"0\" width=\"650\" alt=\"\" src=\"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/express_image/unique3.jpg\" />     </font>     </p>   <div>     <font size=\"4\" face=\"Times New Roman\">     &nbsp;&nbsp;&nbsp; Meru Offices </font>     </div>          <p align=\"center\">     <font size=\"4\" face=\"Times New Roman\">     <img border=\"0\" width=\"650\" alt=\"\" src=\"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/express_image/unique.jpg\" />     </font>     </p>      </div>  </div>"
+ },
+ {
+    "expTextName": "DHL Delivery",
+    "expSpellName": "d-h-l",
+    "expTel":"0712 435 674",
+    "expLoc":"Yaya Center next to the Tuskys",
+    "workTime":"9:00-20:00",
+    "itemImage":"https://dl.dropbox.com/s/m0wzygoactt5sfz/nav_drawer_tmt.png",
+    "topImage":"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/express_image/dhl3.jpg",
+    "body":"<divclass=\"inner\">   <h1 class=\"atitle\">DHL Delivery<br>   </h1>     <div class=\"readinfo\">         <div>     <font size=\"4\" face=\"Times New Roman\">     &nbsp;&nbsp;&nbsp; DHL couriers offers parcel delivery services all over the country with pick up and drop-off points in Nairobi, Meru, Nakuru and other major towns within the country.     </font>     </div>          <p align=\"center\">     <font size=\"4\" face=\"Times New Roman\">     <img border=\"0\" width=\"650\" alt=\"\" src=\"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/express_image/dhl.png" />     </font>     </p>      <div>     <font size=\"4\" face=\"Times New Roman\">     &nbsp;&nbsp;&nbsp; Town Office </font>     </div>      <p align=\"center\">     <font size=\"4\" face=\"Times New Roman\">     <img border=\"0\" width=\"650\" alt=\"\" src=\"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/express_image/dhl2.png" />     </font>     </p>   <div>     <font size=\"4\" face=\"Times New Roman\">     &nbsp;&nbsp;&nbsp; Ngara Office </font>     </div>          <p align=\"center\">     <font size=\"4\" face=\"Times New Roman\">     <img border=\"0\" width=\"650\" alt=\"\" src=\"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/express_image/dhl3.jpg" />     </font>     </p>      </div>  </div>"
+ },
+  {
+    "expTextName": "Jihan Delivery",
+    "expSpellName": "jihan",
+    "expTel":"0723 422 342",
+    "expLoc":"Jihan Delivery Westlands Square",
+    "workTime":"9:00-20:00",
+    "itemImage":"https://dl.dropbox.com/s/m0wzygoactt5sfz/nav_drawer_tmt.png",
+    "topImage":"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/express_image/jihan.jpg",
+    "body":"<divclass=\"inner\">   <h1 class=\"atitle\">Jihan Delivery<br>   </h1>     <div class=\"readinfo\">         <div>     <font size=\"4\" face=\"Times New Roman\">     &nbsp;&nbsp;&nbsp; Jihan Couriers operate country-wide delivering services in a maximum of 3days depending on destination.     </font>     </div>          <p align=\"center\">     <font size=\"4\" face=\"Times New Roman\">     <img border=\"0\" width=\"650\" alt=\"\" src=\"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/express_image/jihan2.jpg" />     </font>     </p>      <div>     <font size=\"4\" face=\"Times New Roman\">     &nbsp;&nbsp;&nbsp; Nairobi Office </font>     </div>      <p align=\"center\">     <font size=\"4\" face=\"Times New Roman\">     <img border=\"0\" width=\"650\" alt=\"\" src=\"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/express_image/jihan3.jpg" />     </font>     </p>   <div>     <font size=\"4\" face=\"Times New Roman\">     &nbsp;&nbsp;&nbsp; Thika Offices </font>     </div>          <p align=\"center\">     <font size=\"4\" face=\"Times New Roman\">     <img border=\"0\" width=\"650\" alt=\"\" src=\"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/express_image/jihan.jpg\" />     </font>     </p>      </div>  </div>"
+ }
+]
+}

@@ -1,0 +1,15 @@
+
+        {
+            "notifyCode":"4",
+            "title":"Courier Services still in development stage.",
+            "type":"link",
+            "data":"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/Message/2016-04-26.html",
+            "date":"27th Aug 2016"
+        },
+        {
+            "notifyCode":"1",
+            "title":"Welcome UBC!!",
+            "type":"link_data",
+            "data":"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/Message/2016-04-26.html",
+            "date":"27th Aug 2016"
+        }

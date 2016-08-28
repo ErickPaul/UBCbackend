@@ -1,0 +1,35 @@
+{
+    "CampusATM":[
+        {
+            "bankName":"Barclays Bank",
+            "bankLocation":"Yaya Center",
+            "imageUrl":"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/atm_image/barclays.png"
+        },
+        {
+            "bankName":"Chase Bank",
+            "bankLocation":"Sarit Center",
+            "imageUrl":"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/atm_image/chase.png"
+        },
+        {
+            "bankName":"Chase Bank",
+            "bankLocation":"Waiyaki Way near Square",
+            "imageUrl":"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/atm_image/chase2.png"
+        },
+        {
+            "bankName":"Co-operative Bank",
+            "bankLocation":"Monrovia Street",
+            "imageUrl":"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/atm_image/coop.png"
+        },
+        {
+            "bankName":"Equity Bank",
+            "bankLocation":"Moi Avenue",
+            "imageUrl":"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/atm_image/equity.png"
+        },
+        {
+            "bankName":"Co-op Bank",
+            "bankLocation":"Taj Mall",
+            "imageUrl":"https://raw.githubusercontent.com/ErickPaul/UBCbackend/master/atm_image/coop2.png"
+        }
+    
+    ]
+}
